@@ -1,2 +1,3 @@
-const m = "Nubank"
-console.log(m)
+const n = "Nubank"
+const d = 'Devedor'
+console.log(n,d)
